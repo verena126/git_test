@@ -1,7 +1,10 @@
-# git_test
+ git_test
 My first HitHub repo!
 Helllo Odin
 
 test
 
-test merging
+
+Test new Branch
+Test1
+Test2
